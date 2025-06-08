@@ -17,7 +17,7 @@ This project analyzes the Florida Panthers' home and away win percentages during
 - Home Win %: 56.1%
 - Away Win %: 43.9%
 
-![Win Chart](fla_win_chart.png) ← *(optional if you save the chart)*
+![Win Chart](fla_win_chart.png)
 
 ## Tools Used
 
