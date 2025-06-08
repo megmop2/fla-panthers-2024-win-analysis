@@ -21,7 +21,7 @@ This project analyzes the Florida Panthers' home and away win percentages during
 
 ## Tools Used
 
-- Python 🐍
+- Python
 - pandas
 - matplotlib
 
@@ -30,5 +30,3 @@ This project analyzes the Florida Panthers' home and away win percentages during
 [MoneyPuck.com](https://moneypuck.com/) – open hockey analytics data
 
 ---
-
-Let me know if you want to expand this project later with playoff stats or more seasons!
